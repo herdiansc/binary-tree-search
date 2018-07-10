@@ -1,10 +1,14 @@
 # Go Binary Search Algorithm
 
-A simple implementation of binary search algorithm using GO.
+A simple console game implementation using binary search algorithm and GO.
+
+## Binary Search
+
+In computer science, binary search, also known as half-interval search, logarithmic search, or binary chop, is a search algorithm that finds the position of a target value within a sorted array.
 
 ![Binary Search](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Binary_Search_Depiction.svg/470px-Binary_Search_Depiction.svg.png)
 
-## Searching
+## Searching Algorithm
 
 **Iteration 1**
 1. low = 0
